@@ -1,0 +1,29 @@
+.para{
+	background-color: #c45e45;
+	color: green;
+
+}
+#paragraph{
+	background-color: #27ae60;
+	color: green;
+
+}
+.first,.second,.third,.fourth
+{
+	border: 2px solid #ddd;
+	margin: 2px;
+	width: 400px;
+	text-align: center;
+}
+/*.first img,.second img,.third img,.fourth img{
+	width: 200px;
+}*/
+img{
+	width: 200px;
+	padding: 10px;
+
+}
+.parent{
+	display: flex;
+	flex-direction: row-reverse;
+}
